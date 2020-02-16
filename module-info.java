@@ -5,5 +5,4 @@ module MiniTennis {
 	requires java.desktop;
 	requires java.sql;
 	exports app;
-
 }
